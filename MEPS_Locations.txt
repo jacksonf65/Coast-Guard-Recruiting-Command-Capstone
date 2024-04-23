@@ -1,0 +1,65 @@
+"Albany, New York"	42.6500	-73.7667
+"Albuquerque, New Mexico"	35.1167	-106.6167
+"Amarillo, Texas"	35.1992	-101.8453
+"Anchorage, Alaska"	61.2167	-149.8936
+Atlanta	33.7569	-84.3903
+Baltimore	39.2864	-76.6150
+"Beckley, West Virginia"	37.7797	-81.1831
+"Boise, Idaho"	43.6136	-116.2378
+Boston	42.3603	-71.0578
+"Buffalo, New York"	42.8864	-78.8781
+"Butte, Montana"	46.0064	-112.5297
+"Charlotte, North Carolina"	35.2269	-80.8433
+Chicago	41.8500	-87.6501
+Cleveland	41.4822	-81.6697
+"Columbus, Ohio"	39.9622	-83.0006
+Dallas	32.7792	-96.8089
+Denver	39.7392	-104.9903
+"Des Moines, Iowa"	41.5908	-93.6208
+Detroit	42.3317	-83.0475
+"El Paso, Texas"	31.7592	-106.4886
+"Fargo, North Dakota"	46.8772	-96.7894
+Fort Dix	40.0192	-74.5228
+Fort Jackson	34.0368	-80.8199
+Fort Gregg-Adams	37.2350	-77.3328
+"Harrisburg, Pennsylvania"	40.2646	-76.8834
+Honolulu	21.3047	-157.8572
+Houston	29.7628	-95.3831
+Indianapolis	39.7686	-86.1581
+"Jackson, Mississippi"	32.2989	-90.1847
+"Jacksonville, Florida"	30.3167	-81.6500
+"Kansas City, Missouri"	39.0500	-94.5833
+"Knoxville, Tennessee"	35.9617	-83.9233
+"Lansing, Michigan"	42.7335	-84.5467
+"Little Rock, Arkansas"	34.7361	-92.3311
+Los Angeles	34.0522	-118.2437
+"Louisville, Kentucky"	38.2561	-85.7514
+"Memphis, Tennessee"	35.1175	-89.9711
+Miami	25.7833	-80.2167
+Milwaukee	43.0500	-87.9500
+Minneapolis	44.9819	-93.2692
+"Montgomery, Alabama"	32.3617	-86.2792
+"Nashville, Tennessee"	36.1622	-86.7744
+New Orleans	29.9761	-90.0783
+New York City	40.7000	-74.0000
+Oklahoma City	35.4823	-97.5352
+"Omaha, Nebraska"	41.2586	-95.9375
+"Phoenix, Arizona"	33.4483	-112.0739
+Pittsburgh	40.4417	-80.0000
+"Portland, Maine"	43.6600	-70.2550
+"Portland, Oregon"	45.5167	-122.6667
+"Raleigh, North Carolina"	35.7800	-78.6400
+"Sacramento, California"	38.5753	-121.4861
+Salt Lake City	40.7500	-111.8833
+San Antonio	29.4250	-98.4939
+San Diego	32.7150	-117.1625
+"San Jose, California"	37.3042	-121.8728
+"San Juan, Puerto Rico"	18.4656	-66.1181
+Seattle	47.6062	-122.3321
+"Shreveport, Louisiana"	32.5081	-93.7628
+"Sioux Falls, South Dakota"	43.5461	-96.7314
+"Spokane, Washington"	47.6572	-117.4235
+"Springfield, Missouri"	37.1950	-93.2861
+St. Louis	38.6270	-90.1994
+"Syracuse, New York"	43.0469	-76.1444
+"Tampa, Florida"	27.9475	-82.4586

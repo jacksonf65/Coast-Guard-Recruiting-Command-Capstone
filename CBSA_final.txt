@@ -1,0 +1,537 @@
+10100	"Aberdeen, SD Micro Area"	45.5194	-98.7007	1664
+10140	"Aberdeen, WA Micro Area"	47.1137	-123.8267	5291
+10180	"Abilene, TX Metro Area"	32.452	-99.7187	20137
+10300	"Adrian, MI Micro Area"	41.896	-84.0744	6884
+10420	"Akron, OH Metro Area"	41.1466	-81.3501	36710
+10460	"Alamogordo, NM Micro Area"	32.6156	-105.7513	8443
+10500	"Albany, GA Metro Area"	31.6447	-84.1107	31583
+10540	"Albany, OR Metro Area"	44.4889	-122.5372	22921
+10580	"Albany-Schenectady-Troy, NY Metro Area"	42.7879	-73.9423	45210
+10700	"Albertville, AL Micro Area"	34.3096	-86.3217	7734
+10740	"Albuquerque, NM Metro Area"	35.1235	-106.4584	108404
+10760	"Alexander City, AL Micro Area"	32.8633	-85.7996	8649
+10780	"Alexandria, LA Metro Area"	31.3253	-92.5468	10709
+10860	"Alice, TX Micro Area"	27.3597	-98.1572	4724
+10900	"Allentown-Bethlehem-Easton, PA-NJ Metro Area"	40.7893	-75.3982	96047
+11020	"Altoona, PA Metro Area"	40.4987	-78.3096	12190
+11100	"Amarillo, TX Metro Area"	35.248	-101.9087	30293
+11140	"Americus, GA Micro Area"	32.0984	-84.2243	3945
+11260	"Anchorage, AK Metro Area"	62.2128	-149.6782	78594
+11460	"Ann Arbor, MI Metro Area"	42.2522	-83.8434	14598
+11500	"Anniston-Oxford, AL Metro Area"	33.7705	-85.8279	22659
+11540	"Appleton, WI Metro Area"	44.2906	-88.3723	10036
+11700	"Asheville, NC Metro Area"	35.6163	-82.5707	30293
+11740	"Ashland, OH Micro Area"	40.8433	-82.2701	4653
+11820	"Astoria, OR Micro Area"	46.0245	-123.705	24771
+11980	"Athens, TX Micro Area"	32.2116	-95.8534	14683
+12020	"Athens-Clarke County, GA Metro Area"	33.944	-83.2139	17374
+12060	"Atlanta-Sandy Springs-Roswell, GA Metro Area"	33.7324	-84.3928	700962
+12100	"Atlantic City-Hammonton, NJ Metro Area"	39.2862	-74.7383	61823
+12140	"Auburn, IN Micro Area"	41.3968	-85.0027	8117
+12180	"Auburn, NY Micro Area"	43.0085	-76.5746	5185
+12220	"Auburn-Opelika, AL Metro Area"	32.4922	-85.5271	37463
+12260	"Augusta-Richmond County, GA-SC Metro Area"	33.4604	-81.9828	107575
+12420	"Austin-Round Rock-San Marcos, TX Metro Area"	30.2497	-97.6498	184843
+12460	"Bainbridge, GA Micro Area"	30.8806	-84.5839	3945
+12540	"Bakersfield-Delano, CA Metro Area"	35.3466	-118.7295	109005
+12580	"Baltimore-Columbia-Towson, MD Metro Area"	39.3044	-76.5495	276273
+12700	"Barnstable Town, MA Metro Area"	41.7061	-70.1648	33900
+12780	"Bartlesville, OK Micro Area"	36.7044	-95.9063	4335
+12860	"Batavia, NY Micro Area"	43.0009	-78.1928	4264
+12940	"Baton Rouge, LA Metro Area"	30.5152	-91.1269	64482
+12980	"Battle Creek, MI Metro Area"	42.243	-85.0124	10192
+13020	"Bay City, MI Metro Area"	43.6997	-83.9787	13373
+13140	"Beaumont-Port Arthur, TX Metro Area"	30.0759	-94.2027	52436
+13180	"Beaver Dam, WI Micro Area"	43.4296	-88.7019	6035
+13260	"Bedford, IN Micro Area"	38.8398	-86.4878	4122
+13380	"Bellingham, WA Metro Area"	48.8427	-121.8364	23523
+13460	"Bend, OR Metro Area"	44.1538	-120.8871	20364
+13660	"Big Rapids, MI Micro Area"	43.6353	-85.3328	4051
+13740	"Billings, MT Metro Area"	45.6371	-108.8324	12388
+13780	"Binghamton, NY Metro Area"	42.1639	-76.0229	14619
+13820	"Birmingham, AL Metro Area"	33.4624	-86.8143	99310
+13980	"Blacksburg-Christiansburg-Radford, VA Metro Area"	37.1214	-80.5315	9059
+14010	"Bloomington, IL Metro Area"	40.4946	-88.8445	10617
+14220	"Bogalusa, LA Micro Area"	30.8521	-90.0463	4512
+14260	"Boise City, ID Metro Area"	43.0066	-116.1419	120887
+14380	"Boone, NC Micro Area"	36.2354	-81.7099	3556
+14460	"Boston-Cambridge-Newton, MA-NH Metro Area"	42.5176	-71.022	399821
+14580	"Bozeman, MT Metro Area"	45.5181	-111.1639	9711
+14620	"Bradford, PA Micro Area"	41.8146	-78.5725	6403
+14660	"Brainerd, MN Micro Area"	46.7673	-94.2239	7572
+14740	"Bremerton-Silverdale-Port Orchard, WA Metro Area"	47.6396	-122.6496	58471
+14860	"Bridgeport-Stamford-Danbury, CT Metro Area"	41.2524	-73.3933	57110
+15060	"Brookings, OR Micro Area"	42.4664	-124.2109	3131
+15180	"Brownsville-Harlingen, TX Metro Area"	26.1029	-97.479	82858
+15220	"Brownwood, TX Micro Area"	31.7641	-98.9985	6368
+15260	"Brunswick-St. Simons, GA Metro Area"	31.3017	-81.5889	18947
+15340	"Bucyrus, OH Micro Area"	40.8485	-82.9248	4299
+15380	"Buffalo-Cheektowaga, NY Metro Area"	43.0444	-78.7773	56754
+15460	"Burlington, IA-IL Micro Area"	40.8638	-91.07	4441
+15500	"Burlington, NC Metro Area"	36.044	-79.4006	14690
+15540	"Burlington-South Burlington, VT Metro Area"	44.6891	-73.0412	11269
+15660	"Calhoun, GA Micro Area"	34.5097	-84.8739	9746
+15700	"Cambridge, MD Micro Area"	38.4292	-76.0474	5943
+15940	"Canton-Massillon, OH Metro Area"	40.7111	-81.2615	30173
+15980	"Cape Coral-Fort Myers, FL Metro Area"	26.5633	-81.9842	131578
+16060	"Carbondale, IL Micro Area"	37.7861	-89.3812	18224
+16100	"Carlsbad-Artesia, NM Micro Area"	32.4578	-104.3064	3981
+16180	"Carson City, NV Metro Area"	39.1531	-119.7474	5220
+16260	"Cedar City, UT Micro Area"	37.9093	-113.3067	6970
+16340	"Cedartown, GA Micro Area"	33.996	-85.1883	4512
+16500	"Centralia, WA Micro Area"	46.5801	-122.3774	6176
+16540	"Chambersburg, PA Metro Area"	39.9268	-77.7245	16135
+16580	"Champaign-Urbana, IL Metro Area"	40.2345	-88.2986	8832
+16700	"Charleston-North Charleston, SC Metro Area"	33.0175	-80.0099	183744
+16740	"Charlotte-Concord-Gastonia, NC-SC Metro Area"	35.1663	-80.7973	242087
+16820	"Charlottesville, VA Metro Area"	37.9491	-78.5932	15887
+16860	"Chattanooga, TN-GA Metro Area"	35.0494	-85.3612	37765
+16980	"Chicago-Naperville-Elgin, IL-IN Metro Area"	41.7588	-87.8419	490235
+17020	"Chico, CA Metro Area"	39.6653	-121.6032	18847
+17140	"Cincinnati, OH-KY-IN Metro Area"	39.0786	-84.4635	145913
+17300	"Clarksville, TN-KY Metro Area"	36.6957	-87.6243	56074
+17340	"Clearlake, CA Micro Area"	39.108	-122.7452	5893
+17420	"Cleveland, TN Metro Area"	35.1381	-84.6551	15285
+17500	"Clewiston, FL Micro Area"	26.7392	-81.184	3945
+17580	"Clovis, NM Micro Area"	34.2216	-103.4312	6884
+17660	"Coeur d'Alene, ID Metro Area"	47.676	-116.6959	27504
+17780	"College Station-Bryan, TX Metro Area"	30.7544	-96.4885	19768
+17820	"Colorado Springs, CO Metro Area"	38.8455	-104.6387	91818
+17860	"Columbia, MO Metro Area"	38.9865	-92.5852	11715
+17900	"Columbia, SC Metro Area"	34.0776	-81.0378	157796
+17980	"Columbus, GA-AL Metro Area"	32.4194	-84.8437	65162
+18140	"Columbus, OH Metro Area"	39.9686	-82.8359	151424
+18180	"Concord, NH Micro Area"	43.2996	-71.68	15795
+18260	"Cookeville, TN Micro Area"	36.1907	-85.4638	11623
+18300	"Coos Bay-North Bend, OR Micro Area"	43.1859	-124.0941	24048
+18460	"Cornelia, GA Micro Area"	34.6344	-83.5259	6155
+18500	"Corning, NY Micro Area"	42.2667	-77.3855	11255
+18580	"Corpus Christi, TX Metro Area"	27.8948	-97.4017	99596
+18700	"Corvallis, OR Metro Area"	44.4939	-123.4247	7643
+18860	"Crescent City, CA Micro Area"	41.7499	-123.981	3591
+18880	"Crestview-Fort Walton Beach-Destin, FL Metro Area"	30.5949	-86.3582	59610
+18900	"Crossville, TN Micro Area"	35.9524	-84.9948	5610
+18980	"Cullman, AL Micro Area"	34.1319	-86.8693	6920
+19060	"Cumberland, MD-WV Micro Area"	39.5322	-78.8071	6212
+19100	"Dallas-Fort Worth-Arlington, TX Metro Area"	32.8492	-96.9705	673726
+19140	"Dalton, GA Metro Area"	34.797	-84.8563	11290
+19180	"Danville, IL Micro Area"	40.1868	-87.7268	6743
+19260	"Danville, VA Micro Area"	36.8119	-79.4001	9909
+19300	"Daphne-Fairhope-Foley, AL Metro Area"	30.6592	-87.7461	67163
+19340	"Davenport-Moline-Rock Island, IA-IL Metro Area"	41.3917	-90.4601	25469
+19430	"Dayton-Kettering-Beavercreek, OH Metro Area"	39.8297	-84.141	75312
+19460	"Decatur, AL Metro Area"	34.4894	-87.0971	11821
+19580	"Defiance, OH Micro Area"	41.3217	-84.4864	4158
+19620	"Del Rio, TX Micro Area"	29.8753	-101.1433	6920
+19660	"Deltona-Daytona Beach-Ormond Beach, FL Metro Area"	29.1789	-81.189	143212
+19760	"DeRidder, LA Micro Area"	30.645	-93.3403	12998
+19780	"Des Moines-West Des Moines, IA Metro Area"	41.5771	-93.7597	31469
+19820	"Detroit-Warren-Dearborn, MI Metro Area"	42.7218	-83.2008	247768
+19940	"Dixon, IL Micro Area"	41.7474	-89.2994	4158
+20020	"Dothan, AL Metro Area"	31.2455	-85.4692	24946
+20100	"Dover, DE Metro Area"	39.0971	-75.503	25073
+20140	"Dublin, GA Micro Area"	32.5303	-82.8566	6601
+20180	"DuBois, PA Micro Area"	41.0069	-78.4777	7005
+20220	"Dubuque, IA Metro Area"	42.4635	-90.8788	5149
+20260	"Duluth, MN-WI Metro Area"	47.3297	-92.3763	11821
+20420	"Durango, CO Micro Area"	37.2874	-107.8397	4299
+20460	"Durant, OK Micro Area"	33.964	-96.2651	4689
+20500	"Durham-Chapel Hill, NC Metro Area"	35.9955	-79.097	49871
+20660	"Easton, MD Micro Area"	38.7483	-76.1785	5447
+20700	"East Stroudsburg, PA Micro Area"	41.0562	-75.3291	23565
+20740	"Eau Claire, WI Metro Area"	44.9387	-91.2843	9505
+20940	"El Centro, CA Metro Area"	33.0408	-115.3554	25484
+20980	"El Dorado, AR Micro Area"	33.1682	-92.5981	3202
+21020	"Elizabeth City, NC Micro Area"	36.2652	-76.2607	41303
+21060	"Elizabethtown, KY Metro Area"	37.6512	-85.8876	25469
+21140	"Elkhart-Goshen, IN Metro Area"	41.6007	-85.864	12919
+21220	"Elko, NV Micro Area"	40.9061	-115.5546	7536
+21260	"Ellensburg, WA Micro Area"	47.1244	-120.6767	3449
+21300	"Elmira, NY Metro Area"	42.1487	-76.7525	8776
+21340	"El Paso, TX Metro Area"	31.5274	-105.5213	141508
+21420	"Enid, OK Metro Area"	36.3781	-97.7887	4937
+21460	"Enterprise, AL Micro Area"	31.4023	-85.9896	16560
+21500	"Erie, PA Metro Area"	42.118	-80.0964	25392
+21640	"Eufaula, AL-GA Micro Area"	31.8673	-85.335	9584
+21660	"Eugene-Springfield, OR Metro Area"	43.9283	-122.8976	34749
+21700	"Eureka-Arcata, CA Micro Area"	40.7067	-123.9262	19967
+21820	"Fairbanks-College, AK Metro Area"	64.6705	-146.4961	18749
+21860	"Fairmont, MN Micro Area"	43.6772	-94.5471	2458
+22020	"Fargo, ND-MN Metro Area"	46.9149	-96.9602	8301
+22140	"Farmington, NM Metro Area"	36.5116	-108.3246	11063
+22180	"Fayetteville, NC Metro Area"	35.038	-78.9822	151112
+22220	"Fayetteville-Springdale-Rogers, AR Metro Area"	36.1164	-94.0795	35691
+22300	"Findlay, OH Micro Area"	41.0002	-83.6659	5610
+22420	"Flint, MI Metro Area"	43.0211	-83.7064	22799
+22500	"Florence, SC Metro Area"	34.1536	-79.8062	24967
+22520	"Florence-Muscle Shoals, AL Metro Area"	34.7993	-87.7194	7557
+22540	"Fond du Lac, WI Metro Area"	43.7547	-88.4933	6070
+22580	"Forest City, NC Micro Area"	35.4027	-81.9196	7005
+22780	"Fort Leonard Wood, MO Micro Area"	37.8248	-92.207	9045
+22800	"Fort Madison, IA Micro Area"	40.6476	-91.4772	6722
+22840	"Fort Payne, AL Micro Area"	34.4609	-85.804	7465
+23060	"Fort Wayne, IN Metro Area"	41.007	-85.2164	23061
+23240	"Fredericksburg, TX Micro Area"	30.3251	-98.9419	3060
+23300	"Freeport, IL Micro Area"	42.3497	-89.666	4299
+23380	"Fremont, OH Micro Area"	41.3553	-83.1428	9959
+23420	"Fresno, CA Metro Area"	36.8794	-119.6685	110423
+23460	"Gadsden, AL Metro Area"	34.0476	-86.0343	12721
+23500	"Gaffney, SC Micro Area"	35.0498	-81.6076	8507
+23540	"Gainesville, FL Metro Area"	29.4534	-82.6663	36569
+23580	"Gainesville, GA Metro Area"	34.3176	-83.8185	16050
+23620	"Gainesville, TX Micro Area"	33.6392	-97.2103	7536
+23660	"Galesburg, IL Micro Area"	40.9309	-90.2138	4512
+23900	"Gettysburg, PA Metro Area"	39.8695	-77.2177	13939
+24020	"Glens Falls, NY Metro Area"	43.4405	-73.6368	9449
+24140	"Goldsboro, NC Metro Area"	35.3542	-78.0087	14442
+24180	"Granbury, TX Micro Area"	32.4301	-97.8317	5503
+24340	"Grand Rapids-Wyoming-Kentwood, MI Metro Area"	42.9798	-85.7156	68725
+24420	"Grants Pass, OR Metro Area"	42.387	-123.5716	6672
+24500	"Great Falls, MT Metro Area"	47.3166	-111.3503	11517
+24580	"Green Bay, WI Metro Area"	44.474	-87.9961	20172
+24660	"Greensboro-High Point, NC Metro Area"	36.0252	-79.7926	65559
+24740	"Greenville, MS Micro Area"	33.2732	-90.9444	3449
+24780	"Greenville, NC Metro Area"	35.5925	-77.3727	24996
+24860	"Greenville-Anderson-Greer, SC Metro Area"	34.6837	-82.4134	84500
+24940	"Greenwood, SC Micro Area"	34.1908	-82.2967	7501
+25060	"Gulfport-Biloxi, MS Metro Area"	30.4802	-88.9993	68860
+25180	"Hagerstown-Martinsburg, MD-WV Metro Area"	39.5544	-77.9846	24074
+25220	"Hammond, LA Metro Area"	30.6213	-90.4065	17460
+25260	"Hanford-Corcoran, CA Metro Area"	36.0725	-119.8155	18847
+25300	"Hannibal, MO Micro Area"	39.6641	-91.5792	3839
+25420	"Harrisburg-Carlisle, PA Metro Area"	40.3359	-77.0505	54298
+25460	"Harrison, AR Micro Area"	36.0878	-93.1621	4335
+25500	"Harrisonburg, VA Metro Area"	38.5076	-78.8853	6530
+25540	"Hartford-West Hartford-East Hartford, CT Metro Area"	41.688	-72.5451	83310
+25620	"Hattiesburg, MS Metro Area"	31.1884	-89.2327	22326
+25740	"Helena, MT Metro Area"	46.7157	-112.1352	17049
+25840	"Hermiston-Pendleton, OR Micro Area"	45.5446	-119.0762	9215
+25860	"Hickory-Lenoir-Morganton, NC Metro Area"	35.8143	-81.4566	36236
+25900	"Hilo-Kailua, HI Micro Area"	19.5978	-155.5024	45417
+25940	"Hilton Head Island-Bluffton-Port Royal, SC Metro Area"	32.3868	-80.8309	45424
+25980	"Hinesville, GA Metro Area"	31.7788	-81.5765	29266
+26090	"Holland, MI Micro Area"	42.4213	-86.2614	7841
+26140	"Homosassa Springs, FL Metro Area"	28.8503	-82.5956	31626
+26220	"Hood River, OR Micro Area"	45.5118	-121.656	2777
+26380	"Houma-Bayou Cane-Thibodaux, LA Metro Area"	29.3341	-90.8437	41189
+26420	"Houston-Pasadena-The Woodlands, TX Metro Area"	29.801	-95.3426	841950
+26580	"Huntington-Ashland, WV-KY-OH Metro Area"	38.3575	-82.58	21468
+26620	"Huntsville, AL Metro Area"	34.7833	-86.7349	70129
+26660	"Huntsville, TX Micro Area"	30.7432	-95.5698	6460
+26820	"Idaho Falls, ID Metro Area"	43.6204	-112.4209	9895
+26900	"Indianapolis-Carmel-Greenwood, IN Metro Area"	39.7905	-86.1243	147563
+27060	"Ithaca, NY Metro Area"	42.453	-76.4735	3485
+27100	"Jackson, MI Metro Area"	42.2485	-84.4209	12650
+27140	"Jackson, MS Metro Area"	32.4263	-90.1364	47547
+27180	"Jackson, TN Metro Area"	35.7532	-88.8827	13202
+27260	"Jacksonville, FL Metro Area"	30.2342	-81.756	400514
+27340	"Jacksonville, NC Metro Area"	34.7631	-77.4995	88036
+27460	"Jamestown-Dunkirk, NY Micro Area"	42.3042	-79.4076	9732
+27620	"Jefferson City, MO Metro Area"	38.6369	-92.0889	9470
+27700	"Jesup, GA Micro Area"	31.5478	-81.9124	10363
+27780	"Johnstown, PA Metro Area"	40.5102	-78.7105	8513
+27900	"Joplin, MO-KS Metro Area"	37.0921	-94.5007	11169
+27940	"Juneau, AK Micro Area"	58.3729	-134.1784	13331
+27980	"Kahului-Wailuku, HI Metro Area"	20.8559	-156.6016	24146
+28020	"Kalamazoo-Portage, MI Metro Area"	42.2463	-85.5329	14102
+28060	"Kalispell, MT Micro Area"	48.2954	-114.0521	14364
+28140	"Kansas City, MO-KS Metro Area"	38.9319	-94.4438	144348
+28180	"Kapaa, HI Micro Area"	22.012	-159.706	11375
+28300	"Keene, NH Micro Area"	42.9255	-72.2482	6070
+28380	"Kennett, MO Micro Area"	36.153	-90.0623	3202
+28420	"Kennewick-Richland, WA Metro Area"	46.3642	-119.2549	35897
+28500	"Kerrville, TX Micro Area"	30.06	-99.3533	16341
+28540	"Ketchikan, AK Micro Area"	55.4499	-131.1067	2458
+28580	"Key West-Key Largo, FL Micro Area"	25.5861	-81.0226	25514
+28620	"Kill Devil Hills, NC Micro Area"	35.6063	-75.7675	33873
+28660	"Killeen-Temple, TX Metro Area"	31.2027	-97.7896	110364
+28700	"Kingsport-Bristol, TN-VA Metro Area"	36.6042	-82.4401	21362
+28740	"Kingston, NY Metro Area"	41.9472	-74.2655	7628
+28780	"Kingsville, TX Micro Area"	27.4387	-97.6606	6722
+28820	"Kinston, NC Micro Area"	35.2401	-77.6355	6282
+28900	"Klamath Falls, OR Micro Area"	42.6838	-121.6462	13692
+28940	"Knoxville, TN Metro Area"	36.0445	-84.1361	73179
+29060	"Laconia, NH Micro Area"	43.5191	-71.4254	19734
+29180	"Lafayette, LA Metro Area"	30.013	-92.1366	41604
+29200	"Lafayette-West Lafayette, IN Metro Area"	40.4822	-87.0171	15094
+29300	"LaGrange, GA-AL Micro Area"	32.9703	-85.2442	10334
+29340	"Lake Charles, LA Metro Area"	30.0385	-93.1901	17835
+29380	"Lake City, FL Micro Area"	30.2217	-82.6234	7911
+29420	"Lake Havasu City-Kingman, AZ Metro Area"	35.7177	-113.7497	26377
+29460	"Lakeland-Winter Haven, FL Metro Area"	27.9537	-81.6935	127765
+29540	"Lancaster, PA Metro Area"	40.042	-76.2502	43235
+29620	"Lansing-East Lansing, MI Metro Area"	42.7137	-84.6054	28225
+29700	"Laredo, TX Metro Area"	27.7608	-99.3408	30895
+29740	"Las Cruces, NM Metro Area"	32.3499	-106.835	25215
+29820	"Las Vegas-Henderson-North Las Vegas, NV Metro Area"	36.2141	-115.0144	193127
+29860	"Laurel, MS Micro Area"	31.8255	-89.1481	9534
+29900	"Laurinburg, NC Micro Area"	34.84	-79.4773	6049
+29940	"Lawrence, KS Metro Area"	38.8964	-95.2909	5857
+30140	"Lebanon, PA Metro Area"	40.3714	-76.4648	12615
+30260	"Lewisburg, PA Micro Area"	40.9622	-77.0555	7090
+30280	"Lewisburg, TN Micro Area"	35.4683	-86.7659	5907
+30340	"Lewiston-Auburn, ME Metro Area"	44.1677	-70.2074	20017
+30380	"Lewistown, PA Micro Area"	40.6016	-77.6518	6580
+30460	"Lexington-Fayette, KY Metro Area"	38.1029	-84.4385	28211
+30700	"Lincoln, NE Metro Area"	40.8174	-96.8688	14392
+30780	"Little Rock-North Little Rock-Conway, AR Metro Area"	34.7558	-92.4006	56740
+30860	"Logan, UT-ID Metro Area"	41.889	-111.7874	6849
+30900	"Logansport, IN Micro Area"	40.7538	-86.3552	4653
+30980	"Longview, TX Metro Area"	32.4316	-94.6848	27736
+31020	"Longview-Kelso, WA Metro Area"	46.1968	-122.6785	9186
+31080	"Los Angeles-Long Beach-Anaheim, CA Metro Area"	34.1087	-118.1828	974466
+31140	"Louisville/Jefferson County, KY-IN Metro Area"	38.2244	-85.702	68589
+31180	"Lubbock, TX Metro Area"	33.4698	-101.8804	23628
+31300	"Lumberton, NC Micro Area"	34.6392	-79.1009	15979
+31340	"Lynchburg, VA Metro Area"	37.3649	-79.2167	28679
+31420	"Macon-Bibb County, GA Metro Area"	32.8562	-83.7143	24265
+31500	"Madison, IN Micro Area"	38.7836	-85.4401	3627
+31540	"Madison, WI Metro Area"	43.0838	-89.5977	29373
+31580	"Madisonville, KY Micro Area"	37.3111	-87.5422	3874
+31680	"Malvern, AR Micro Area"	34.3152	-92.9441	3202
+31700	"Manchester-Nashua, NH Metro Area"	42.9115	-71.7231	49702
+31740	"Manhattan, KS Metro Area"	39.2684	-96.5622	12834
+31820	"Manitowoc, WI Micro Area"	44.1561	-87.5774	7713
+31900	"Mansfield, OH Metro Area"	40.7742	-82.5428	8726
+31930	"Marietta, OH Micro Area"	39.4507	-81.4906	8209
+32000	"Marion, NC Micro Area"	35.6823	-82.048	5114
+32100	"Marquette, MI Micro Area"	46.6566	-87.584	11071
+32260	"Marshalltown, IA Micro Area"	42.0417	-92.9814	3343
+32380	"Mason City, IA Micro Area"	43.2137	-93.2743	3874
+32460	"Mayfield, KY Micro Area"	36.7233	-88.6499	3662
+32580	"McAllen-Edinburg-Mission, TX Metro Area"	26.3964	-98.181	73739
+32620	"McComb, MS Micro Area"	31.148	-90.2502	4689
+32780	"Medford, OR Metro Area"	42.4116	-122.6756	22644
+32820	"Memphis, TN-MS-AR Metro Area"	35.0103	-89.8205	123696
+32940	"Meridian, MS Micro Area"	32.2197	-88.6704	7664
+33100	"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area"	26.1018	-80.4788	910736
+33140	"Michigan City-La Porte, IN Metro Area"	41.549	-86.7447	10809
+33220	"Midland, MI Metro Area"	43.6482	-84.3794	5078
+33260	"Midland, TX Metro Area"	32.0924	-101.9945	11276
+33300	"Milledgeville, GA Micro Area"	33.0595	-83.2555	9746
+33340	"Milwaukee-Waukesha, WI Metro Area"	42.9126	-87.8623	63383
+33460	"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area"	45.0967	-93.2754	125229
+33500	"Minot, ND Metro Area"	48.3202	-101.198	4795
+33660	"Mobile, AL Metro Area"	30.6846	-88.1966	106709
+33700	"Modesto, CA Metro Area"	37.5623	-121.0028	54184
+33860	"Montgomery, AL Metro Area"	32.3656	-86.4046	131846
+33980	"Morehead City, NC Micro Area"	34.8583	-76.5359	50072
+34020	"Morgan City, LA Micro Area"	29.6293	-91.4638	4901
+34100	"Morristown, TN Metro Area"	36.1155	-83.3765	13400
+34180	"Moses Lake, WA Micro Area"	47.2136	-119.4678	13267
+34220	"Moultrie, GA Micro Area"	31.1897	-83.7698	4795
+34340	"Mount Airy, NC Micro Area"	36.4154	-80.6865	5078
+34460	"Mount Sterling, KY Micro Area"	38.0396	-83.7477	3981
+34500	"Mount Vernon, IL Micro Area"	38.3008	-88.9242	4760
+34540	"Mount Vernon, OH Micro Area"	40.4036	-82.4224	7041
+34580	"Mount Vernon-Anacortes, WA Metro Area"	48.4933	-121.8158	11269
+34620	"Muncie, IN Metro Area"	40.2275	-85.3993	9803
+34660	"Murray, KY Micro Area"	36.621	-88.2741	3272
+34740	"Muskegon-Norton Shores, MI Metro Area"	43.4287	-86.4209	15412
+34780	"Muskogee, OK Micro Area"	35.6176	-95.3839	7713
+34820	"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area"	33.9093	-78.9767	83432
+34860	"Nacogdoches, TX Micro Area"	31.6206	-94.6203	7395
+34900	"Napa, CA Metro Area"	38.5071	-122.3259	8917
+34940	"Naples-Marco Island, FL Metro Area"	26.1188	-81.401	38935
+34980	"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area"	36.0916	-86.723	112297
+35020	"Natchez, MS-LA Micro Area"	31.5429	-91.3825	3768
+35100	"New Bern, NC Micro Area"	35.1168	-77.0813	40204
+35140	"Newberry, SC Micro Area"	34.2899	-81.5997	3414
+35300	"New Haven, CT Metro Area"	41.2902	-72.837	89821
+35380	"New Orleans-Metairie, LA Metro Area"	29.2824	-89.5761	175818
+35440	"Newport, OR Micro Area"	44.6411	-123.9112	6226
+35620	"New York-Newark-Jersey City, NY-NJ Metro Area"	40.7354	-73.8077	1393458
+35660	"Niles, MI Metro Area"	41.7914	-86.7425	21101
+35820	"North Platte, NE Micro Area"	41.1413	-100.6974	3910
+35840	"North Port-Bradenton-Sarasota, FL Metro Area"	27.3291	-82.4145	152268
+35900	"North Wilkesboro, NC Micro Area"	36.2089	-81.1661	5326
+35940	"Norwalk, OH Micro Area"	41.1451	-82.5946	8138
+35980	"Norwich-New London-Willimantic, CT Metro Area"	41.4848	-72.1017	28042
+36020	"Oak Harbor, WA Micro Area"	48.1586	-122.6706	19386
+36100	"Ocala, FL Metro Area"	29.2028	-82.0431	55141
+36260	"Ogden, UT Metro Area"	41.1243	-111.8669	56529
+36380	"Okeechobee, FL Micro Area"	27.3856	-80.8874	7480
+36420	"Oklahoma City, OK Metro Area"	35.431	-97.507	102615
+36460	"Olean, NY Micro Area"	42.2391	-78.6623	7997
+36500	"Olympia-Lacey-Tumwater, WA Metro Area"	46.9358	-122.8302	43752
+36540	"Omaha, NE-IA Metro Area"	41.2905	-96	57865
+36580	"Oneonta, NY Micro Area"	42.6298	-75.0288	3981
+36700	"Orangeburg, SC Micro Area"	33.4361	-80.8029	13196
+36740	"Orlando-Kissimmee-Sanford, FL Metro Area"	28.4344	-81.3561	469147
+36837	"Ottawa, IL Micro Area"	41.3565	-89.1734	12105
+36900	"Ottumwa, IA Micro Area"	41.0313	-92.4095	2954
+37100	"Oxnard-Thousand Oaks-Ventura, CA Metro Area"	34.3587	-119.1331	94856
+37120	"Ozark, AL Micro Area"	31.4307	-85.6095	13004
+37220	"Pahrump, NV Micro Area"	37.9659	-116.459	4972
+37260	"Palatka, FL Micro Area"	29.5939	-81.732	11375
+37340	"Palm Bay-Melbourne-Titusville, FL Metro Area"	28.2983	-80.7003	148753
+37420	"Pampa, TX Micro Area"	35.6174	-100.8106	7445
+37460	"Panama City-Panama City Beach, FL Metro Area"	30.2732	-85.6421	47528
+37740	"Payson, AZ Micro Area"	33.7896	-110.8119	4299
+37860	"Pensacola-Ferry Pass-Brent, FL Metro Area"	30.6086	-87.1585	115453
+37900	"Peoria, IL Metro Area"	40.7881	-89.5146	38907
+37980	"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area"	39.895	-75.312	513446
+38060	"Phoenix-Mesa-Chandler, AZ Metro Area"	33.1858	-112.0679	421095
+38100	"Picayune, MS Micro Area"	30.7748	-89.5869	11850
+38240	"Pinehurst-Southern Pines, NC Metro Area"	35.3083	-79.4927	21299
+38300	"Pittsburgh, PA Metro Area"	40.4713	-79.864	105066
+38340	"Pittsfield, MA Metro Area"	42.3715	-73.2179	7749
+38460	"Plattsburgh, NY Micro Area"	44.7527	-73.7056	5078
+38540	"Pocatello, ID Metro Area"	42.6929	-112.229	5964
+38740	"Poplar Bluff, MO Micro Area"	36.7152	-90.4031	5539
+38820	"Port Angeles, WA Micro Area"	48.1109	-123.8899	19026
+38860	"Portland-South Portland, ME Metro Area"	43.6514	-70.4184	43554
+38900	"Portland-Vancouver-Hillsboro, OR-WA Metro Area"	45.6006	-122.4844	237190
+38920	"Port Lavaca, TX Micro Area"	28.4417	-96.5796	3768
+38940	"Port St. Lucie, FL Metro Area"	27.228	-80.4254	86619
+39060	"Pottsville, PA Micro Area"	40.7037	-76.2178	15639
+39150	"Prescott Valley-Prescott, AZ Metro Area"	34.6311	-112.5772	16389
+39300	"Providence-Warwick, RI-MA Metro Area"	41.7068	-71.2867	139523
+39340	"Provo-Orem-Lehi, UT Metro Area"	39.8721	-112.3591	35322
+39420	"Pullman, WA Micro Area"	46.9059	-117.5354	5907
+39460	"Punta Gorda, FL Metro Area"	26.9064	-82.0037	20768
+39500	"Quincy, IL-MO Micro Area"	40.0272	-91.3898	7961
+39540	"Racine-Mount Pleasant, WI Metro Area"	42.7804	-87.7716	11630
+39580	"Raleigh-Cary, NC Metro Area"	35.7567	-78.4604	169540
+39660	"Rapid City, SD Metro Area"	44.1951	-102.9166	16631
+39740	"Reading, PA Metro Area"	40.414	-75.9269	46770
+39820	"Redding, CA Metro Area"	40.7605	-122.0436	16233
+39900	"Reno, NV Metro Area"	40.2511	-119.5555	37851
+39940	"Rexburg, ID Micro Area"	44.1428	-111.5081	4087
+39980	"Richmond, IN Micro Area"	39.8631	-85.0067	5397
+40060	"Richmond, VA Metro Area"	37.4113	-77.4418	176071
+40140	"Riverside-San Bernardino-Ontario, CA Metro Area"	34.5385	-116.1345	642397
+40220	"Roanoke, VA Metro Area"	37.2862	-79.9469	20760
+40260	"Roanoke Rapids, NC Micro Area"	36.3206	-77.5428	6545
+40380	"Rochester, NY Metro Area"	43.1847	-77.5566	54863
+40420	"Rockford, IL Metro Area"	42.3312	-89.0429	28190
+40460	"Rockingham, NC Micro Area"	35.0046	-79.7557	7218
+40540	"Rock Springs, WY Micro Area"	41.6603	-108.8757	4689
+40580	"Rocky Mount, NC Metro Area"	35.941	-77.7985	13663
+40620	"Rolla, MO Micro Area"	37.8663	-91.7903	5397
+40660	"Rome, GA Metro Area"	34.2637	-85.2137	11517
+40700	"Roseburg, OR Micro Area"	43.2863	-123.1545	20661
+40860	"Rutland, VT Micro Area"	43.6124	-73.0603	7869
+40900	"Sacramento-Roseville-Folsom, CA Metro Area"	38.7903	-121.0056	218966
+40980	"Saginaw, MI Metro Area"	43.3283	-84.0554	15427
+41100	"St. George, UT Metro Area"	37.2625	-113.4878	7947
+41180	"St. Louis, MO-IL Metro Area"	38.7402	-90.3458	221559
+41260	"St. Marys, PA Micro Area"	41.4273	-78.6539	3024
+41420	"Salem, OR Metro Area"	44.9034	-122.9018	30775
+41500	"Salinas, CA Metro Area"	36.2401	-121.3156	38417
+41540	"Salisbury, MD Metro Area"	38.1973	-75.7693	52798
+41620	"Salt Lake City-Murray, UT Metro Area"	40.5729	-112.9533	65049
+41660	"San Angelo, TX Metro Area"	31.3653	-100.6594	11346
+41700	"San Antonio-New Braunfels, TX Metro Area"	29.4331	-98.607	479558
+41740	"San Diego-Chula Vista-Carlsbad, CA Metro Area"	33.0236	-116.7761	562934
+41760	"Sandpoint, ID Micro Area"	48.3246	-116.6275	8153
+41780	"Sandusky, OH Metro Area"	41.5196	-82.7946	6247
+41820	"Sanford, NC Micro Area"	35.4763	-79.1721	19755
+41860	"San Francisco-Oakland-Fremont, CA Metro Area"	37.7737	-122.2744	210467
+41940	"San Jose-Sunnyvale-Santa Clara, CA Metro Area"	36.9085	-121.3714	82245
+42020	"San Luis Obispo-Paso Robles, CA Metro Area"	35.3882	-120.4489	37817
+42100	"Santa Cruz-Watsonville, CA Metro Area"	37.0123	-122.0078	12013
+42140	"Santa Fe, NM Metro Area"	35.5145	-105.964	10632
+42200	"Santa Maria-Santa Barbara, CA Metro Area"	34.5367	-120.0384	46726
+42220	"Santa Rosa-Petaluma, CA Metro Area"	38.5252	-122.9261	44999
+42300	"Sault Ste. Marie, MI Micro Area"	46.3218	-84.5206	20386
+42340	"Savannah, GA Metro Area"	32.1092	-81.2731	165586
+42380	"Sayre, PA Micro Area"	41.7915	-76.5021	8103
+42460	"Scottsboro, AL Micro Area"	34.7641	-85.9801	6722
+42540	"Scranton--Wilkes-Barre, PA Metro Area"	41.3229	-75.8982	35917
+42620	"Searcy, AR Micro Area"	35.2551	-91.753	8174
+42660	"Seattle-Tacoma-Bellevue, WA Metro Area"	47.4906	-121.834	280096
+42680	"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area"	27.7005	-80.5748	26371
+42700	"Sebring, FL Metro Area"	27.3411	-81.3424	19967
+42860	"Seneca, SC Micro Area"	34.7488	-83.0615	6141
+42900	"Seneca Falls, NY Micro Area"	42.7823	-76.8271	3485
+42940	"Sevierville, TN Micro Area"	35.7878	-83.5249	10759
+43060	"Shawnee, OK Micro Area"	35.2114	-96.957	9767
+43140	"Shelby-Kings Mountain, NC Micro Area"	35.3346	-81.5571	7805
+43220	"Shelton, WA Micro Area"	47.3508	-123.1731	13954
+43300	"Sherman-Denison, TX Metro Area"	33.6245	-96.6758	11063
+43320	"Show Low, AZ Micro Area"	35.3908	-110.321	12261
+43340	"Shreveport-Bossier City, LA Metro Area"	32.4377	-93.7449	31667
+43380	"Sidney, OH Micro Area"	40.3367	-84.2041	6722
+43420	"Sierra Vista-Douglas, AZ Metro Area"	31.8401	-109.7752	23480
+43500	"Silver City, NM Micro Area"	32.7321	-108.3815	3272
+43580	"Sioux City, IA-NE-SD Metro Area"	42.508	-96.3113	6389
+43620	"Sioux Falls, SD-MN Metro Area"	43.5257	-96.8754	11948
+43760	"Sonora, CA Micro Area"	38.0214	-119.9647	12467
+43780	"South Bend-Mishawaka, IN-MI Metro Area"	41.775	-86.123	13152
+43900	"Spartanburg, SC Metro Area"	34.8346	-81.8424	33595
+44060	"Spokane-Spokane Valley, WA Metro Area"	48.0916	-117.6635	61792
+44140	"Springfield, MA Metro Area"	42.1362	-72.6356	52917
+44180	"Springfield, MO Metro Area"	37.3609	-93.1803	31398
+44220	"Springfield, OH Metro Area"	39.917	-83.7837	13925
+44300	"State College, PA Metro Area"	40.9093	-77.8477	9782
+44340	"Statesboro, GA Micro Area"	32.3517	-81.775	11234
+44420	"Staunton-Stuarts Draft, VA Metro Area"	38.161	-79.1276	15618
+44580	"Sterling, IL Micro Area"	41.7507	-89.911	7111
+44620	"Stevens Point-Plover, WI Micro Area"	44.4762	-89.4981	7076
+44660	"Stillwater, OK Micro Area"	36.0792	-96.9753	5574
+44700	"Stockton-Lodi, CA Metro Area"	37.935	-121.2722	68865
+44860	"Sulphur Springs, TX Micro Area"	33.149	-95.5654	4901
+44940	"Sumter, SC Metro Area"	33.9161	-80.3824	29883
+44980	"Sunbury, PA Micro Area"	40.8855	-76.7126	9498
+45060	"Syracuse, NY Metro Area"	43.0065	-76.1961	54844
+45220	"Tallahassee, FL Metro Area"	30.3464	-84.267	45855
+45300	"Tampa-St. Petersburg-Clearwater, FL Metro Area"	28.1205	-82.5252	783961
+45340	"Taos, NM Micro Area"	36.5772	-105.6389	2954
+45460	"Terre Haute, IN Metro Area"	39.3924	-87.3471	15235
+45500	"Texarkana, TX-AR Metro Area"	33.4784	-94.2072	15115
+45520	"The Dalles, OR Micro Area"	45.1645	-121.1651	5801
+45580	"Thomaston, GA Micro Area"	32.8818	-84.2923	3945
+45620	"Thomasville, GA Micro Area"	30.863	-84.0582	4653
+45740	"Toccoa, GA Micro Area"	34.5536	-83.2906	3945
+45780	"Toledo, OH Metro Area"	41.5444	-83.6908	42192
+45820	"Topeka, KS Metro Area"	39.0414	-95.8026	19549
+45860	"Torrington, CT Micro Area"	41.8548	-73.2215	16418
+45900	"Traverse City, MI Metro Area"	44.9523	-85.9083	13302
+45940	"Trenton-Princeton, NJ Metro Area"	40.2825	-74.7037	20632
+45980	"Troy, AL Micro Area"	31.7987	-85.9416	9215
+46020	"Truckee-Grass Valley, CA Micro Area"	39.2975	-120.7713	6141
+46060	"Tucson, AZ Metro Area"	32.128	-111.7837	97984
+46140	"Tulsa, OK Metro Area"	36.2544	-96.1773	60259
+46180	"Tupelo, MS Micro Area"	34.3842	-88.5086	11503
+46220	"Tuscaloosa, AL Metro Area"	33.0979	-87.7991	17997
+46300	"Twin Falls, ID Metro Area"	42.4404	-114.5687	11871
+46340	"Tyler, TX Metro Area"	32.3751	-95.2689	21907
+46380	"Ukiah, CA Micro Area"	39.4324	-123.4429	11248
+46460	"Union City, TN Micro Area"	36.3619	-89.1481	3591
+46520	"Urban Honolulu, HI Metro Area"	21.4614	-158.202	248860
+46540	"Utica-Rome, NY Metro Area"	43.3323	-75.1732	17254
+46620	"Uvalde, TX Micro Area"	29.3503	-99.7684	4016
+46660	"Valdosta, GA Metro Area"	30.8272	-83.2436	24457
+46700	"Vallejo, CA Metro Area"	38.2672	-121.9396	51443
+47020	"Victoria, TX Metro Area"	28.7315	-97.197	12438
+47080	"Vidalia, GA Micro Area"	32.1542	-82.4114	3662
+47220	"Vineland, NJ Metro Area"	39.3284	-75.1216	18543
+47260	"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area"	36.8373	-76.3918	656171
+47300	"Visalia, CA Metro Area"	36.2288	-118.7811	55459
+47380	"Waco, TX Metro Area"	31.5921	-97.286	18160
+47580	"Warner Robins, GA Metro Area"	32.4928	-83.7111	46266
+47620	"Warren, PA Micro Area"	41.8343	-79.2982	6509
+47700	"Warsaw, IN Micro Area"	41.2443	-85.8616	4866
+47820	"Washington, NC Micro Area"	35.4823	-76.842	13706
+47900	"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area"	38.8298	-77.4957	687843
+47920	"Washington Court House, OH Micro Area"	39.5552	-83.4619	8224
+48060	"Watertown-Fort Drum, NY Metro Area"	43.9964	-76.053	24961
+48180	"Waycross, GA Micro Area"	31.1331	-82.3687	9272
+48300	"Wenatchee-East Wenatchee, WA Metro Area"	47.7661	-120.2702	13373
+48540	"Wheeling, WV-OH Metro Area"	39.9777	-80.8548	11871
+48620	"Wichita, KS Metro Area"	37.6379	-97.2463	39876
+48660	"Wichita Falls, TX Metro Area"	33.7761	-98.5019	18897
+48700	"Williamsport, PA Metro Area"	41.3439	-77.0553	8088
+48900	"Wilmington, NC Metro Area"	34.2537	-78.0417	91523
+48980	"Wilson, NC Micro Area"	35.7004	-77.9216	7451
+49020	"Winchester, VA-WV Metro Area"	39.273	-78.4718	15341
+49180	"Winston-Salem, NC Metro Area"	36.0789	-80.3451	50061
+49300	"Wooster, OH Micro Area"	40.8297	-81.8872	7239
+49340	"Worcester, MA Metro Area"	42.3117	-71.9403	77813
+49420	"Yakima, WA Metro Area"	46.4566	-120.7401	17445
+49620	"York-Hanover, PA Metro Area"	39.9218	-76.7289	35060
+49660	"Youngstown-Warren, OH Metro Area"	41.1951	-80.7651	39990
+49700	"Yuba City, CA Metro Area"	39.161	-121.5118	21397
+49740	"Yuma, AZ Metro Area"	32.7739	-113.9109	32305
+49780	"Zanesville, OH Micro Area"	39.966	-81.9435	8705

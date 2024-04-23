@@ -1,0 +1,200 @@
+New York City	40.7000	-74.0000
+Los Angeles	34.0522	-118.2437
+Chicago	41.8500	-87.6501
+Houston	29.7628	-95.3831
+"Phoenix, Arizona"	33.4483	-112.0739
+Philadelphia	39.9528	-75.1636
+San Antonio	29.4250	-98.4939
+San Diego	32.7150	-117.1625
+Dallas	32.7792	-96.8089
+"Austin, Texas"	30.3000	-97.7333
+"Jacksonville, Florida"	30.3167	-81.6500
+"San Jose, California"	37.3042	-121.8728
+"Fort Worth, Texas"	32.7564	-97.3325
+"Columbus, Ohio"	39.9622	-83.0006
+"Charlotte, North Carolina"	35.2269	-80.8433
+Indianapolis	39.7686	-86.1581
+San Francisco	37.7775	-122.4164
+Seattle	47.6062	-122.3321
+Denver	39.7600	-104.8800
+Oklahoma City	35.4823	-97.5352
+"Nashville, Tennessee"	36.1622	-86.7744
+"El Paso, Texas"	31.7592	-106.4886
+"Washington, D.C."	38.9000	-77.0200
+Las Vegas	36.1692	-115.1447
+Boston	42.3603	-71.0578
+"Portland, Oregon"	45.5167	-122.6667
+"Louisville, Kentucky"	38.2561	-85.7514
+"Memphis, Tennessee"	35.1175	-89.9711
+Detroit	42.3317	-83.0475
+Baltimore	39.2864	-76.6150
+Milwaukee	43.0500	-87.9500
+"Albuquerque, New Mexico"	35.1167	-106.6167
+"Tucson, Arizona"	32.2217	-110.9264
+"Fresno, California"	36.7817	-119.7922
+"Sacramento, California"	38.5753	-121.4861
+"Mesa, Arizona"	33.4150	-111.8314
+"Kansas City, Missouri"	39.0500	-94.5833
+Atlanta	33.7569	-84.3903
+"Colorado Springs, Colorado"	38.8633	-104.7919
+"Omaha, Nebraska"	41.2586	-95.9375
+"Raleigh, North Carolina"	35.7800	-78.6400
+"Virginia Beach, Virginia"	36.7800	-76.0300
+"Long Beach, California"	33.7681	-118.1956
+Miami	25.7833	-80.2167
+"Oakland, California"	37.8000	-122.2500
+Minneapolis	44.9819	-93.2692
+"Tulsa, Oklahoma"	36.1314	-95.9372
+"Bakersfield, California"	35.4058	-119.0186
+"Tampa, Florida"	27.9475	-82.4586
+"Wichita, Kansas"	37.6889	-97.3361
+"Arlington, Texas"	32.7050	-97.1228
+"Aurora, Colorado"	39.7108	-104.8125
+New Orleans	29.9761	-90.0783
+Cleveland	41.4822	-81.6697
+"Anaheim, California"	33.8361	-117.8897
+Honolulu	21.3047	-157.8572
+"Henderson, Nevada"	36.0317	-114.9814
+"Stockton, California"	37.9756	-121.3008
+"Riverside, California"	33.9822	-117.3725
+"Lexington, Kentucky"	38.0297	-84.4947
+"Corpus Christi, Texas"	27.7428	-97.4019
+"Orlando, Florida"	28.5336	-81.3867
+"Irvine, California"	33.6842	-117.7925
+Cincinnati	39.1000	-84.5125
+"Santa Ana, California"	33.7408	-117.8814
+"Newark, New Jersey"	40.7353	-74.1850
+"Saint Paul, Minnesota"	44.9442	-93.0936
+Pittsburgh	40.4417	-80.0000
+"Greensboro, North Carolina"	36.0800	-79.8194
+"Lincoln, Nebraska"	40.8092	-96.6781
+"Durham, North Carolina"	35.9942	-78.8986
+"Plano, Texas"	33.0500	-96.7500
+"Anchorage, Alaska"	61.2167	-149.8936
+"Jersey City, New Jersey"	40.7100	-74.0600
+St. Louis	38.6400	-90.2400
+"Chandler, Arizona"	33.3033	-111.8414
+"North Las Vegas, Nevada"	36.2006	-115.1216
+"Chula Vista, California"	32.6278	-117.0481
+"Buffalo, New York"	42.8864	-78.8781
+"Gilbert, Arizona"	33.3500	-111.7892
+"Reno, Nevada"	39.5261	-119.8127
+"Madison, Wisconsin"	43.0747	-89.3842
+"Fort Wayne, Indiana"	41.0805	-85.1392
+"Toledo, Ohio"	41.6667	-83.5833
+"Lubbock, Texas"	33.5850	-101.8450
+"St. Petersburg, Florida"	27.7731	-82.6400
+"Laredo, Texas"	27.5061	-99.5072
+"Irving, Texas"	32.8117	-96.9508
+"Chesapeake, Virginia"	36.6800	-76.3000
+"Glendale, Arizona"	33.5833	-112.2000
+"Winston-Salem, North Carolina"	36.1025	-80.2606
+"Scottsdale, Arizona"	33.4931	-111.9261
+"Garland, Texas"	32.9067	-96.6350
+"Boise, Idaho"	43.6136	-116.2378
+"Norfolk, Virginia"	36.9200	-76.2400
+"Port St. Lucie, Florida"	27.2758	-80.3550
+"Spokane, Washington"	47.6572	-117.4235
+"Richmond, Virginia"	37.5408	-77.4367
+"Fremont, California"	37.5431	-121.9828
+"Huntsville, Alabama"	34.7136	-86.5861
+"Tacoma, Washington"	47.2414	-122.4594
+"Baton Rouge, Louisiana"	30.4475	-91.1786
+"Santa Clarita, California"	34.3917	-118.5426
+"San Bernardino, California"	34.1294	-117.2931
+"Hialeah, Florida"	25.8606	-80.2939
+San Francisco	37.7775	-122.4164
+"Modesto, California"	37.6614	-120.9944
+"Cape Coral, Florida"	26.6333	-81.9833
+"Fontana, California"	34.1000	-117.4667
+"Moreno Valley, California"	33.9431	-117.2283
+"Des Moines, Iowa"	41.5908	-93.6208
+"Rochester, New York"	43.1656	-77.6114
+"Fayetteville, Arkansas"	36.0764	-94.1608
+"Yonkers, New York"	40.9414	-73.8644
+"McKinney, Texas"	33.2000	-96.6333
+"Worcester, Massachusetts"	42.2714	-71.7989
+Salt Lake City	40.7500	-111.8833
+"Little Rock, Arkansas"	34.7361	-92.3311
+"Columbus, Ohio"	39.9622	-83.0006
+"Augusta, Georgia"	33.4700	-81.9750
+"Sioux Falls, South Dakota"	43.5461	-96.7314
+"Grand Prairie, Texas"	32.7153	-97.0169
+"Tallahassee, Florida"	30.4387	-84.2806
+"Amarillo, Texas"	35.1992	-101.8453
+"Oxnard, California"	34.1914	-119.1825
+"Peoria, Illinois"	40.6925	-89.5900
+"Overland Park, Kansas"	38.9401	-94.6807
+"Montgomery, Alabama"	32.3617	-86.2792
+"Birmingham, Alabama"	33.5175	-86.8094
+"Grand Rapids, Michigan"	42.9634	-85.6681
+"Knoxville, Tennessee"	35.9617	-83.9233
+Vancouver	49.2608	-123.1139
+"Huntington Beach, California"	33.6928	-117.9997
+"Providence, Rhode Island"	41.8240	-71.4128
+"Brownsville, Texas"	25.9303	-97.4844
+"Glendale, Arizona"	33.5833	-112.2000
+"Akron, Ohio"	41.0731	-81.5178
+"Tempe, Arizona"	33.4256	-111.9400
+"Newport News, Virginia"	37.0800	-76.5200
+"Chattanooga, Tennessee"	35.0456	-85.2672
+"Mobile, Alabama"	30.7277	-88.0527
+"Fort Lauderdale, Florida"	26.1358	-80.1419
+"Cary, North Carolina"	35.7789	-78.8003
+"Shreveport, Louisiana"	32.5081	-93.7628
+Ontario	34.0400	-117.6000
+"Eugene, Oregon"	44.0519	-123.0856
+"Aurora, Colorado"	39.7108	-104.8125
+"Elk Grove, California"	38.4383	-121.3819
+"Salem, Oregon"	44.9308	-123.0289
+"Santa Rosa, California"	38.4486	-122.7047
+"Clarksville, California"	38.6550	-121.0525
+"Rancho Cucamonga, California"	34.1233	-117.5794
+"Oceanside, California"	33.2117	-117.3258
+"Springfield, California"	38.0208	-120.4114
+"Pembroke Pines, Florida"	26.0125	-80.3136
+"Garden Grove, California"	33.7789	-117.9603
+"Fort Collins, Colorado"	40.5667	-105.0833
+"Lancaster, California"	34.6869	-118.1542
+"Palmdale, California"	34.5794	-118.1165
+"Murfreesboro, Tennessee"	35.8461	-86.3919
+"Salinas, California"	36.6778	-121.6556
+"Corona, California"	33.8667	-117.5667
+"Killeen, Texas"	31.1056	-97.7267
+"Hayward, California"	37.6689	-122.0808
+"Cherokee, Nevada County, California"	39.3703	-121.0419
+"Macon, Georgia"	32.8407	-83.6324
+"Lakewood, California"	33.8475	-118.1200
+"Alexandria, Virginia"	38.8200	-77.0800
+"Roseville, California"	38.7525	-121.2894
+"Surprise, Arizona"	33.6292	-112.3678
+"Springfield, California"	38.0208	-120.4114
+"Charleston, South Carolina"	32.7833	-79.9319
+"Kansas City, Missouri"	39.0500	-94.5833
+"Sunnyvale, California"	37.3689	-122.0369
+"Bellevue, Washington"	47.6144	-122.1925
+Los Angeles	34.0522	-118.2437
+"Denton, Texas"	33.2167	-97.1333
+"Escondido, California"	33.1247	-117.0808
+"Joliet, Illinois"	41.5252	-88.0834
+"Naperville, Illinois"	41.7483	-88.1659
+"Bridgeport, Connecticut"	41.1833	-73.2000
+"Savannah, Georgia"	32.0508	-81.1039
+"Mesquite, Texas"	32.7828	-96.6097
+"Pasadena, California"	34.1561	-118.1319
+"Rockford, Illinois"	42.2711	-89.0940
+"Pomona, California"	34.0608	-117.7558
+"Jackson, California"	38.3489	-120.7742
+"Olathe, Kansas"	38.8808	-94.8031
+"Gainesville, Florida"	29.6653	-82.3361
+"McAllen, Texas"	26.2164	-98.2364
+"Syracuse, New York"	43.0469	-76.1444
+"Waco, Texas"	31.5514	-97.1558
+"Visalia, California"	36.3303	-119.2925
+"Thornton, California"	38.2261	-121.4250
+"Torrance, California"	33.8358	-118.3406
+"Fullerton, California"	33.8800	-117.9286
+"Columbia, California"	38.0364	-120.4003
+"Lakewood, California"	33.8475	-118.1200
+"Alvarado, California"	37.5966	-122.0780
+"Hampton, Virginia"	37.0500	-76.3000
